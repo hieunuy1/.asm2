@@ -1,0 +1,21 @@
+.row
+{display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+}
+img{width: 100%;}
+
+.row div {padding: 10px;}
+.absolute{ 
+    position: absolute;
+    top: 285px;
+    left:80px;
+    
+}
+.absolute2{position: absolute;
+top: -50px;}
+.menu div{ display: inline;}
+.right div
+{float: right;
+    margin-left: auto;}
+  
